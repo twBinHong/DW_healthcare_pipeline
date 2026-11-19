@@ -2,13 +2,14 @@
 A data warehouse ETL pipeline project featuring data modeling, Apache Airflow 3 orchestration, and PostgreSQL data storage.
 
 # Source 
-Health Record Dataset in Sri Lanka on kaggle.
-![DW_healthcare_pipeline](assets/source_kaggle.png)
+[Health Record Dataset in Sri Lanka](https://www.kaggle.com/datasets/dewminimnaadi/health-record-dataset-in-sri-lanka#columns--schema) on kaggle.
+<img src="assets/source_kaggle.png" width="800" height="400">
 
-# workflow
-![DW_healthcare_pipeline](assets/DW_workflow.png)
+# Workflow
+The pipeline is composed of six tasks that execute sequentially from start to finish.
+<img src="assets/DW_workflow.png" width="800" height="400">
 
-# data modeling design
+
+# Data modeling design
 Designed and implemented a star schema data model with dimension and fact tables.
-![DW_healthcare_pipeline](assets/DW_starschema.png)
-
+<img src="assets/DW_starschema.png" width="800" height="400">
