@@ -13,3 +13,10 @@ The pipeline is composed of six tasks that execute sequentially from start to fi
 # Data modeling design
 Designed and implemented a star schema data model with dimension and fact tables.
 <img src="assets/DW_starschema.png" width="800" height="400">
+# Dashboard
+[A healthcare analytics dashboard developed using Google Data Studio.](https://datastudio.google.com/s/q6hexuOibJ0)
+<p align="center">
+  <a href="assets/DW_dashboard.png">
+    <img src="assets/DW_dashboard.png" width="800"height="400">
+  </a>
+</p>
