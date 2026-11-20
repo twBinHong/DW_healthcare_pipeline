@@ -17,6 +17,6 @@ Designed and implemented a star schema data model with dimension and fact tables
 [A healthcare analytics dashboard developed using Google Data Studio.](https://datastudio.google.com/s/q6hexuOibJ0)
 <p align="center">
   <a href="assets/DW_dashboard.png">
-    <img src="assets/DW_dashboard.png" width="800"height="400">
+    <img src="assets/DW_dashboard.png" width="400"height="600">
   </a>
 </p>
